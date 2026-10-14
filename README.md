@@ -1,4 +1,4 @@
-#        WPU Slutsålt sist
+# WPU Slutsålt sist
 
 Gratis plugin från [wordpressutveckling.se](https://wordpressutveckling.se/). Koden förklaras rad för rad i guiden: **[https://wordpressutveckling.se/sortera-slutsalda-produkter-sist-woocommerce/](https://wordpressutveckling.se/sortera-slutsalda-produkter-sist-woocommerce/)**
 
